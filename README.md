@@ -36,7 +36,7 @@ Student, Programmer, Gamedeveloper
 
 ## Projects:
 ### **[Welcome](https://3pdef.itch.io/welcome-3p)**
-### ![Welcome Gif](https://cdn.discordapp.com/attachments/1173717003073224754/1194550232571183176/welcome_gameplay_online-video-cutter.com11.gif?ex=66164619&is=6603d119&hm=4e85e600370f4445af374152e22011175fd6fe97bb3f87fdbaabc31813896daf&)
+### ![Welcome Gif](https://github.com/Def3p/def3p/blob/main/images/welcome_gameplay_online-video-cutter.com11.gif)
 ### Description:
     The character wakes up in an abandoned hotel. The timer starts running. The timer shows the countdown until the elevator arrives. There is no electricity in the hotel. You will have to start the generator by activating all the switches. Enemies appear on the map, making it more difficult to activate switches. What's going on here?
 
