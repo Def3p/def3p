@@ -43,18 +43,6 @@ The character wakes up in an abandoned hotel. The timer starts running. The time
 
 Game made using pashtet jam in 2 days. The game is not balanced, it has many bugs, but it has its own atmosphere.
 ```
-### Control:
-```
-W, A, S, D - walking SPACE - kick, instantly breaking the door SHIFT - running E - interaction (activating switches, opening doors) ESC - pause LMB - shooting
-```
-### Studio:
-```
-Troyka
-```
-### Sources of inspiration:
-```
-Escape the backrooms, Hell is others.
-```
 ### Game engine:
 ```
 Godot Engine 4.1.2
