@@ -38,16 +38,26 @@ Student, Programmer, Gamedeveloper
 ### **[Welcome](https://3pdef.itch.io/welcome-3p)**
 ### ![Welcome Gif](https://github.com/Def3p/def3p/blob/main/images/welcome_gameplay_online-video-cutter.com11.gif)
 ### Description:
-    The character wakes up in an abandoned hotel. The timer starts running. The timer shows the countdown until the elevator arrives. There is no electricity in the hotel. You will have to start the generator by activating all the switches. Enemies appear on the map, making it more difficult to activate switches. What's going on here?
+```
+The character wakes up in an abandoned hotel. The timer starts running. The timer shows the countdown until the elevator arrives. There is no electricity in the hotel. You will have to start the generator by activating all the switches. Enemies appear on the map, making it more difficult to activate switches. What's going on here?
 
-    Game made using pashtet jam in 2 days. The game is not balanced, it has many bugs, but it has its own atmosphere.
+Game made using pashtet jam in 2 days. The game is not balanced, it has many bugs, but it has its own atmosphere.
+```
 ### Control:
-    W, A, S, D - walking SPACE - kick, instantly breaking the door SHIFT - running E - interaction (activating switches, opening doors) ESC - pause LMB - shooting
-### Studio: 
-    Troyka
+```
+W, A, S, D - walking SPACE - kick, instantly breaking the door SHIFT - running E - interaction (activating switches, opening doors) ESC - pause LMB - shooting
+```
+### Studio:
+```
+Troyka
+```
 ### Sources of inspiration:
-    Escape the backrooms, Hell is others.
+```
+Escape the backrooms, Hell is others.
+```
 ### Game engine:
-    Godot Engine 4.1.2
+```
+Godot Engine 4.1.2
+```
 ### Repository:
 > **[Github](https://github.com/Def3p/Welcome)**
