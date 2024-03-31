@@ -39,8 +39,6 @@ Student, Programmer, Gamedeveloper
 ### ![Welcome Gif](https://github.com/Def3p/def3p/blob/main/images/welcome_gameplay_online-video-cutter.com11.gif)
 ### Description:
 ```
-The character wakes up in an abandoned hotel. The timer starts running. The timer shows the countdown until the elevator arrives. There is no electricity in the hotel. You will have to start the generator by activating all the switches. Enemies appear on the map, making it more difficult to activate switches. What's going on here?
-
 Game made using pashtet jam in 2 days. The game is not balanced, it has many bugs, but it has its own atmosphere.
 ```
 ### Game engine:
