@@ -28,10 +28,26 @@ Student, Programmer, Gamedeveloper
 >[![Static Badge](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/3PuTeLb)
 [![Static Badge](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JqgbQ6SRmr)
 [![Static Badge](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199229997842/)
-[![Static Badge](https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/EllayMen)
+[![Static Badge](https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Def3p)
+[![Static Badge](https://img.shields.io/badge/Itch.io-black?style=for-the-badge&logo=itchdotio&logoColor=white)](https://3pdef.itch.io/)
 
 ## Codewars:
 ![Codewars](https://github.r2v.ch/codewars?user=Def3p&theme=gradient)
 
-## Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=def3p&hide_progress=true)
+## Projects:
+### **[Welcome](https://3pdef.itch.io/welcome-3p)**
+### ![Welcome Gif](https://cdn.discordapp.com/attachments/1173717003073224754/1194550232571183176/welcome_gameplay_online-video-cutter.com11.gif?ex=66164619&is=6603d119&hm=4e85e600370f4445af374152e22011175fd6fe97bb3f87fdbaabc31813896daf&)
+### Description:
+    The character wakes up in an abandoned hotel. The timer starts running. The timer shows the countdown until the elevator arrives. There is no electricity in the hotel. You will have to start the generator by activating all the switches. Enemies appear on the map, making it more difficult to activate switches. What's going on here?
+
+    Game made using pashtet jam in 2 days. The game is not balanced, it has many bugs, but it has its own atmosphere.
+### Control:
+    W, A, S, D - walking SPACE - kick, instantly breaking the door SHIFT - running E - interaction (activating switches, opening doors) ESC - pause LMB - shooting
+### Studio: 
+    Troyka
+### Sources of inspiration:
+    Escape the backrooms, Hell is others.
+### Game engine:
+    Godot Engine 4.1.2
+### Repository:
+> **[Github](https://github.com/Def3p/Welcome)**
