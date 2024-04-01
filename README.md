@@ -23,6 +23,8 @@ Student, Programmer, Gamedeveloper
 [![Static Badge](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/VScode-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
 [![Static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)]()
+[![Static Badge](https://img.shields.io/badge/blockbench-black?style=for-the-badge&logo=blockbench&logoColor=white)]()
 
 ## Follow me:
 >[![Static Badge](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/3PuTeLb)
